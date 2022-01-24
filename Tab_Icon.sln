@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tab_Icon", "Tab_Icon\Tab_Icon.csproj", "{3CF8045B-FB41-47F6-BF81-3A0BBE5F0C4F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D4BE4624-DC11-4F5E-8003-0A7B17B6F3C0}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF8045B-FB41-47F6-BF81-3A0BBE5F0C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF8045B-FB41-47F6-BF81-3A0BBE5F0C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF8045B-FB41-47F6-BF81-3A0BBE5F0C4F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3CF8045B-FB41-47F6-BF81-3A0BBE5F0C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF8045B-FB41-47F6-BF81-3A0BBE5F0C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF8045B-FB41-47F6-BF81-3A0BBE5F0C4F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5607E8AF-BAE2-4764-82C2-EA6CB7C9D457}
+	EndGlobalSection
+EndGlobal
